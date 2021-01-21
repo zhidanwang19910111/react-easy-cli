@@ -1,9 +1,9 @@
 {
-  "name": "react-easy-cli",
+  "name": "react-liter-cli",
   "version": "1.0.0",
   "description": "轻量级react脚手架,可以提供本地和正式环境的配置,开箱即用,便于开发",
   "bin": {
-    "ReactCli": "bin/index.js"
+    "react-liter-cli": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

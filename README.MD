@@ -4,12 +4,12 @@
 # 2. 安装方式
 
 ```bash
-$ npm install @easy-react-cli
+$ npm install react-liter-cli
 ```
 
 或者用yarn
 
 ```bash
-$ yarn add @easy-react-cli
+$ yarn add react-liter-cli
 ```
 
