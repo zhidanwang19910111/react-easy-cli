@@ -3,13 +3,13 @@
 
 # 2. 安装方式
 
-、、、bash
+```bash
 $ npm install @easy-react-cli
-、、、
+```
 
 或者用yarn
 
-、、、bash
+```bash
 $ yarn add @easy-react-cli
-、、、
+```
 
