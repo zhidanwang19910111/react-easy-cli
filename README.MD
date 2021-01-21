@@ -13,3 +13,6 @@ $ npm install react-liter-cli
 $ yarn add react-liter-cli
 ```
 
+```bash
+$ react-liter-cli create <project-name>
+```
