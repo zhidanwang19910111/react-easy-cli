@@ -1,6 +1,6 @@
 {
   "name": "react-liter-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "轻量级react脚手架,可以提供本地和正式环境的配置,开箱即用,便于开发",
   "bin": {
     "react-liter-cli": "bin/index.js"
