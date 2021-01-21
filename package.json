@@ -1,0 +1,33 @@
+{
+  "name": "react-easy-cli",
+  "version": "1.0.0",
+  "description": "轻量级react脚手架,可以提供本地和正式环境的配置,开箱即用,便于开发",
+  "bin": {
+    "ReactCli": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhidanwang19910111/react-easy-cli.git"
+  },
+  "keywords": [
+    "react",
+    "cli"
+  ],
+  "author": "dan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhidanwang19910111/react-easy-cli/issues"
+  },
+  "homepage": "https://github.com/zhidanwang19910111/react-easy-cli#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.0.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^7.3.3",
+    "mkdirp": "^1.0.4",
+    "ora": "^5.3.0"
+  }
+}
